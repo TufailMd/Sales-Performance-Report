@@ -1,20 +1,18 @@
-const { log } = require("console");
-
 let target = [100, 200, 150];
 
 let team = [
     {
     name: "Rahul",
-    taget: target[0],
+    target: target[0],
     sold: 85,
   },{
     name: "Priya",
-    taget: target[1],
+    target: target[1],
     sold: 180,
   },
   {
     name: "Rahul",
-    taget: target[2],
+    target: target[2],
     sold: 120,
   },
 ];
